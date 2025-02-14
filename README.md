@@ -1,3 +1,8 @@
+theme: jekyll-theme-minimal
+title: Swapnil's homepage
+description: Common Protocols and Their Relevance to DevOps
+
+
 # Common Protocols and Their Relevance to DevOps
 
 This repository provides an overview of the most commonly used protocols in networking, their port numbers, and their relevance to DevOps workflows. Understanding these protocols is essential for effective system administration, deployment, and automation in DevOps.
