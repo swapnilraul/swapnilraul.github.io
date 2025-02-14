@@ -1,7 +1,3 @@
-theme: jekyll-theme-minimal
-title: Swapnil's homepage
-description: Common Protocols and Their Relevance to DevOps
-
 
 # Common Protocols and Their Relevance to DevOps
 
